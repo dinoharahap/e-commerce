@@ -1,5 +1,5 @@
 <footer class="bg-orange-600 text-white mt-20">
-    <div class="max-w-7xl mx-auto px-6 py-10 grid grid-cols-3 gap-6">
+    <div class="max-w-7xl mx-auto px-4 md:px-6 py-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         
         <div>
             <h3 class="font-semibold text-lg mb-3">Ayam Kampus</h3>
